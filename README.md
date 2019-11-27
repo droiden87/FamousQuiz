@@ -13,18 +13,23 @@ The first screen will allow user to login by checking/validating user email and 
 <img src="/images/register_scr.png" width="318" height="636" />
 
 Single quiz session which consist of 10 quotes/question.
+
 <img src="/images/quiz_default_scr.png" width="318" height="636" />
 
 If the user clicks on the right answer, a modal box is displayed.
+
 <img src="/images/alert_dialog_scr.png" width="318" height="636" />
 
 A single control switching between modes.
+
 <img src="/images/settings_scr.png" width="318" height="636" />
 
 Multiple choice mode – Showing three possible answers, only one is correct.
+
 <img src="/images/multipleChoiceQuiz_scr.png" width="318" height="636" />
 
 User profile information.
+
 <img src="/images/user_scr.png" width="318" height="636" />
 
 
